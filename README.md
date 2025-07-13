@@ -3,6 +3,7 @@ Building a Netflix Clone with DevSecOps: A Complete DevSecOps Project.
 
 ![Netflix using Devops](https://miro.medium.com/v2/resize:fit:948/format:webp/0*rDDDM60Eu6gV9XbS)
 
+
 Introduction
 ============
 
@@ -74,7 +75,8 @@ It will show an error cause you need API key
 
 ```
 docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
-```![Netflix Clone](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_dgXATdxog5yKf7uiiFAng.jpeg)
+```
+![Netflix Clone](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_dgXATdxog5yKf7uiiFAng.jpeg)
 
 Phase 2: Intializing Security for checking code quality and image quality .
 ---------------------------------------------------------------------------
