@@ -1,8 +1,9 @@
 Building a Netflix Clone with DevSecOps: A Complete DevSecOps Project.
 ======================================================================
 
-![Netflix using Devops](https://miro.medium.com/v2/resize:fit:948/format:webp/0*rDDDM60Eu6gV9XbS)
-
+<div style="text-align: center;">
+    <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/f8cd5ed0-7c51-4e12-93f0-6fed073bbae5" />
+</div>
 
 Introduction
 ============
